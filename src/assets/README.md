@@ -1,0 +1,1 @@
+# This file serves as documentation for any assets used in the project, such as images or additional resources for the animations.
